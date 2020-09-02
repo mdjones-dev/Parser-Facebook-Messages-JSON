@@ -34,13 +34,25 @@ Note1: This is to find the name Facebook uses to identify your partner. In this 
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step5FindFacebookName.png">
 
-Note2: All of the lines of text you can use to find your partners id are in `parse_fb_json.py`, lines 71-83: 
+Note2: Below are all the lines that can be used to identify the name facebook is using to identify them in Call events. These are also referenced in `parse_fb_json.py`, lines 71-83: 
 
-call_strings = ["The video chat ended.",
+`You missed a call from `
 
-f"You missed a call from {facebook_name_id}.",
+`You missed a video chat from `
 
-… 
+` can now see each other.`
+
+` started sharing video.`
+
+` stopped viewing your video.`
+
+` stopped sharing video.`
+
+`'s video has ended.`
+
+` missed your video chat.`
+
+` called you.`
 
 
 <h2>Step 6. Run the python script: `python .\parse_fb_json.py Ye output`</h2>
