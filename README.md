@@ -20,7 +20,7 @@ The initial inspiration for this project was to collate a clean `Call` log.
 
 Example:  C:\Users\\`{user}`\Downloads\\`{name_of_download}`\\messages\inbox\\`{PersonName}_{random numbers}`
 
-Open the directory in `File Explorer`, `SHIFT+Right Click` on empty space. (see below)
+Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space. (see below) You may need to try this a few times to get the PowerShell option to appear.
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3InboxFolderOpenPowerShell.png">
 
