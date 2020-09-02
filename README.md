@@ -97,15 +97,16 @@ Make sure to select the `delimiter` as `;` a semi-colon.
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step7aImportSpreadsheet.png">
 
-Note: All times recorded by Facebook are in UTC (0000).
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step7bImportDelimiter.png">
 
-Note1: I have noticed Facebook no longer records `Calls` as a separate type, post-15/05/2019 they’re recorded as a `Generic` message, there is no way to determine the `call duration` from this data.
-
-Note2: `call duration` is measured in seconds.
-
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step7cNoteStrange.png">
 
+**Notes:**
 
+All times recorded by Facebook are in UTC (0000).
+
+I have noticed Facebook no longer records `Calls` as a separate type, post-15/05/2019 they’re recorded as a `Generic` message, there is no way to determine the `call duration` from this data.
+
+`call duration` is measured in seconds.
 
