@@ -15,7 +15,9 @@ Contained within is the parse_fb_json.py file.
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step1Python.png">
 
-<h2>Step 2. Open `Windows PowerShell`, and run the command `python --version`</h2>
+<h2>Step 2. Open `Windows PowerShell`, and type the following command and press ENTER.</h2>
+
+`python --version`
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step2aPowerShell.png">
 
@@ -30,8 +32,6 @@ Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space
 <h3>Troubleshooting:</h3>  
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3InboxFolderOpenPowerShell.png">
-
-<h2>Step 4. Place the python script `parse_fb_json.py` in the same folder.</h2>
 
 <h2>Step 5. Type the following `PowerShell` command and press ENTER: </h2>
 
@@ -61,8 +61,13 @@ Note1: This is to find the name Facebook uses to identify your partner. In this 
 
 ` called you.`
 
+<h2>Step 6. Place the python script in the message folder.</h2>
 
-<h2>Step 6. Type the following PowerShell command and press ENTER: </h2>
+Refer back to Step 3, the desired message folder, and the ZIP file downloaded in Step 0.
+
+Extract parser_fb_json.py from the ZIP file and place it in the desired message folder.
+
+<h2>Step 7. Type the following PowerShell command and press ENTER: </h2>
 
 `python parse_fb_json.py Ye output`
 
@@ -72,7 +77,7 @@ Note1: this command assumes `parse_fb_json.py` and all JSON files are in the sam
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step6bSeeResultingFiles.png">
 
-<h2>Step 7. The three files can be imported into Microsoft Excel (see Data tab), choose `;` a semi-colon as the `delimiter`.</h2>
+<h2>Step 8. The three files can be imported into Microsoft Excel (see Data tab), choose `;` a semi-colon as the `delimiter`.</h2>
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step7aImportSpreadsheet.png">
 
