@@ -57,9 +57,9 @@ Note1: This is to find the name Facebook uses to identify your partner. In this 
 ` called you.`
 
 
-<h2>Step 6. Type the python script command into the PowerShell window, then hit ENTER: </h2>
+<h2>Step 6. Type the following PowerShell command and press ENTER: </h2>
 
-command: `python parse_fb_json.py Ye output`
+`python parse_fb_json.py Ye output`
 
 Note1: this command assumes `parse_fb_json.py` and all JSON files are in the same folder.
 
