@@ -28,7 +28,7 @@ Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space
 
 <h2>Step 4. Place the python script `parse_fb_json.py` in the same folder.</h2>
 
-<h2>Step 5. Run the following `PowerShell` command: </h2>
+<h2>Step 5. Type the following `PowerShell` command and press ENTER: </h2>
 
 `select-string “ called you.” *.json`
 
