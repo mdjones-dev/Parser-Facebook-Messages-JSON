@@ -22,6 +22,8 @@ Example:  C:\Users\\`{user}`\Downloads\\`{name_of_download}`\\messages\inbox\\`{
 
 Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space. (see below) You may need to try this a few times to get the PowerShell option to appear.
 
+<h3>Troubleshooting:</h3>  
+
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3InboxFolderOpenPowerShell.png">
 
 <h2>Step 4. Place the python script `parse_fb_json.py` in the same folder.</h2>
@@ -34,7 +36,7 @@ Note1: This is to find the name Facebook uses to identify your partner. In this 
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step5FindFacebookName.png">
 
-Note2: Below are all the lines that can be used to identify the name facebook is using to identify them in Call events. These are also referenced in `parse_fb_json.py`, lines 71-83: 
+<h3>Troubleshooting</h3>: Below are all the lines that can be used to identify the name facebook is using to identify them in Call events. These are also referenced in `parse_fb_json.py`, lines 71-83: 
 
 `You missed a call from `
 
@@ -55,7 +57,9 @@ Note2: Below are all the lines that can be used to identify the name facebook is
 ` called you.`
 
 
-<h2>Step 6. Run the python script: `python .\parse_fb_json.py Ye output`</h2>
+<h2>Step 6. Run the python script: </h2>
+
+command: `python parse_fb_json.py Ye output`
 
 Note1: this command assumes `parse_fb_json.py` and all JSON files are in the same folder.
 
