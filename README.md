@@ -32,7 +32,7 @@ Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space
 <h3>Troubleshooting:</h3>  
 
 Some views in File Explorer provide no free space to SHIFT + Right Click, try a tiled view.
-<img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3Troubleshooting.JPG">
+<img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3bTroubleshooting.JPG">
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3InboxFolderOpenPowerShell.png">
 
@@ -72,7 +72,14 @@ Extract parser_fb_json.py from the ZIP file and place it in the desired message 
 
 <h2>Step 7. Type the following PowerShell command and press ENTER: </h2>
 
+Refer to the facebook name you found in Step 5.
+
+`python parse_fb_json.py {name} output`
+
+Example if the name found in Step 5 is `Ye`
+
 `python parse_fb_json.py Ye output`
+
 
 Note1: this command assumes `parse_fb_json.py` and all JSON files are in the same folder.
 
