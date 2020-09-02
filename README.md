@@ -31,6 +31,9 @@ Open the directory in `File Explorer`, `Hold SHIFT + Right Click` on empty space
 
 <h3>Troubleshooting:</h3>  
 
+Some views in File Explorer provide no free space to SHIFT + Right Click, try a tiled view.
+<img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3Troubleshooting.JPG">
+
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step3InboxFolderOpenPowerShell.png">
 
 <h2>Step 5. Type the following `PowerShell` command and press ENTER: </h2>
