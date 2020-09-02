@@ -6,6 +6,9 @@ The output provides 3 text files for `Generic`, `Call`, and `Share` messages.
 The initial inspiration for this project was to collate a clean `Call` log.
 
 <h1>Step 0. Download the python script:
+Down the ZIP file.
+  
+Contained within is the parse_fb_json.py file.
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step0DownloadScript.JPG">
 
 <h2>Step 1. Install Python 3.8 (Windows Store, or python[.]org)</h2>
