@@ -1,4 +1,4 @@
-# Parser-Facebook-Messeges-JSON
+# Parser-Facebook-Messages-JSON
 Used on the Facebook archive download (JSON). 
 
 This script parses the .json files for private messages located in the `messages/inbox`. 
