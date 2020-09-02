@@ -28,7 +28,7 @@ Open the directory in `File Explorer`, `SHIFT+Right Click` on empty space. (see 
 
 <h2>Step 5. Run the following `PowerShell` command: </h2>
 
-select-string “ called you.” *.json
+`select-string “ called you.” *.json`
 
 Note1: This is to find the name Facebook uses to identify your partner. In this case mine is `Ye`
 
