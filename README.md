@@ -85,9 +85,13 @@ Note1: this command assumes `parse_fb_json.py` and all JSON files are in the sam
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step6aRunScript.png">
 
+Well Done! You can now see the additional 3 files in the directory. If you would like to import the data into Excel feel free to continue on to Step 8.
+
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step6bSeeResultingFiles.png">
 
-<h2>Step 8. The three files can be imported into Microsoft Excel (see Data tab), choose `;` a semi-colon as the `delimiter`.</h2>
+<h2>Step 8. The three files can be imported into Microsoft Excel (see Data tab).</h2>
+  
+Make sure to select the `delimiter` as `;` a semi-colon.
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step7aImportSpreadsheet.png">
 
