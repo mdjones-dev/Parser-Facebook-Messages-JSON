@@ -5,7 +5,7 @@ This script parses the .json files for private messages located in the `messages
 The output provides 3 text files for `Generic`, `Call`, and `Share` messages. 
 The initial inspiration for this project was to collate a clean `Call` log.
 
-<h1>Step 0. Download the python script:
+<h1>Step 0. Download the python script:</h1>
 Down the ZIP file.
   
 Contained within is the parse_fb_json.py file.
