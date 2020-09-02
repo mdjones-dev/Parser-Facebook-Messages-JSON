@@ -18,7 +18,7 @@ The initial inspiration for this project was to collate a clean `Call` log.
 
 <h2>Step 3. Locate the desired messages folder and open `PowerShell` in this directory</h2>
 
-Example:  C:\Users\{user}\Downloads\{name_of_download}\messages\inbox\{PersonName}_{random numbers}
+Example:  C:\Users\`{user}`\Downloads\`{name_of_download}`\messages\inbox\`{PersonName}_{random numbers}`
 
 Open the directory in `File Explorer`, `SHIFT+Right Click` on empty space. (see below)
 
