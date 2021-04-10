@@ -18,8 +18,9 @@ Contained within is the parse_fb_json.py file.
 
 <h2>Step 2. Open `Windows PowerShell`, type the following command and press ENTER.</h2>
 
-Just make sure the version is 3.8.x. 
 `python --version`
+
+Just make sure the version is 3.8.x. 
 
 <img src="https://github.com/mjones-l/Parser-Facebook-Messages-JSON/blob/master/resources/Step2aPowerShell.png">
 
