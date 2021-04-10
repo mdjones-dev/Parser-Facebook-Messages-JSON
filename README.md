@@ -108,7 +108,8 @@ Make sure to select the `delimiter` as `;` a semi-colon.
 All times recorded by Facebook are in UTC (0000).
 
 I have noticed Facebook no longer records `Calls` as a separate type, post-15/05/2019 they’re recorded as a `Generic` message, there is no way to determine the `call duration` from this data.
-Edit: I created another copy of my data a few months later and found the call_duraction was back for those missing calls. I can't explain this magic, I just have to accept what they give me.
+
+Edit: I created another copy of my data a few months later and found the call_duraction was back for those missing calls. I can't explain this magic, I just have to accept what Facebook gives me.
 
 `call duration` is measured in seconds.
 
