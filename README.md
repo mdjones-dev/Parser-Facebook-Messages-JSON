@@ -1,5 +1,6 @@
 # Parser-Facebook-Messages-JSON
-Used on the Facebook archive download (JSON). 
+Used on the Facebook archive download (Format: JSON). 
+Please see the following link for help downloading your facebook data https://www.facebook.com/help/212802592074644
 
 This script parses the .json files for private messages located in the `messages/inbox`. 
 The output provides 3 text files for `Generic`, `Call`, and `Share` messages. 
